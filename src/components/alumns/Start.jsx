@@ -16,7 +16,7 @@ const Start = () => {
             </h2>
             <div className="flex-1 pt-14">
               <h2 className="flex-1 flex justify-end text-[rgb(128,0,0)] text-sm font-sans_rif font-extrabold text-[14px]">
-                BUENOS DIAS
+                BUENOS NOCHES
               </h2>
               <h2 className="flex-1 flex justify-end text-[rgb(108,29,69) font-sans_rif font-extrabold text-[14px]">
                 DANIEL LIRA FLORES 2
