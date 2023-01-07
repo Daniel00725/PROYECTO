@@ -19,7 +19,7 @@ const Start = () => {
                 BUENOS NOCHES
               </h2>
               <h2 className="flex-1 flex justify-end text-[rgb(108,29,69) font-sans_rif font-extrabold text-[14px]">
-                DANIEL LIRA FLORES 2
+                JIMENEZ RODRIGUEZ MARIA PAOLA
               </h2>
             </div>
           </div>
