@@ -17,11 +17,11 @@ const Ratings = () => {
       <div className="pt-4 ml-4">
         <div className="flex ">
           <h2 className="w-20">BOLETA:</h2>
-          <h2> 2021040435</h2>
+          <h2> 2021040310</h2>
         </div>
         <div className="flex">
           <h2 className="w-20">NOMBRE:</h2>
-          <h2>DANIEL LIRA FLORES 2</h2>
+          <h2>MARIA PAOLA JIMENEZ RODRIGUEZ</h2>
         </div>
         <table>
           <tr className="">
